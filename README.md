@@ -23,7 +23,7 @@ pip install requests urllib3
 
 ## Configuration
 
-Update the configuration section in the script:
+Update the configuration section in the script, example uses [DevNet SD-WAN v20.10 Sandbox](https://devnetsandbox.cisco.com/DevNet/catalog/SD-WAN-Always-On_sd-wan-always-on)
 
 ```python
 # Configuration
