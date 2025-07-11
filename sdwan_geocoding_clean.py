@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 Cisco SD-WAN Site Hierarchy with Reverse Geocoding - Clean Version
-Maps GPS coordinates to city/address information without emoji formatting
 """
 
 import requests
